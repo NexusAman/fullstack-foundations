@@ -20,7 +20,6 @@ The focus is on strengthening fundamentals required to build production-ready we
 
 fullstack-foundations/
 
-│  
 ├── javascript/        → Core JavaScript concepts and exercises  
 ├── react/             → React fundamentals and UI practice  
 ├── node-express/      → REST API development and backend concepts  
